@@ -12,7 +12,7 @@ This repository contains white papers and articles officially published by [**Sc
 |------|-------|
 | 2025-06-18 | [AI-Powered Development](2025-06-18-ai-powered-development.pdf) |
 | 2025-02-08 | [LLM Adaptation Approaches](2025-02-08-llm-adaptation-approaches.pdf) |
-| 2025-12-29 | [MedCad MLOps case study](https://github.com/scopic/papers-and-articles/blob/e16d5ef6a950f4530c4e36e7b50a8c07821817f6/MedCad%20MLOps%20case%20study.docx) |
+| 2025-12-29 | [MedCad MLOps case study](https://github.com/scopic/papers-and-articles/blob/3c3a260f7dc53543d2f879587cc6c11e52525dcb/MedCad%20MLOps%20case%20study.pdf) |
 ---
 
 © Scopic, Inc. All rights reserved.
